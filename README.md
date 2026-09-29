@@ -5,4 +5,3 @@
 ### Task Priority
 
 Tasks can also have a priority level.
-Task Status: In Progress
