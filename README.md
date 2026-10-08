@@ -11,3 +11,4 @@ Change made by Dev2
 Change made by actual Dev1
 
 Dev2: Adding new Changes 1
+Dev2: Adding new Changes 2
