@@ -17,3 +17,5 @@ Dev1: Adding new Changes 2
 
 Dev2: I am fine Dev1, How about you?
 Dev2: Work is going smooth.
+Dev1: Hello Dev2 How are you?
+Dev1: How is work going on?
