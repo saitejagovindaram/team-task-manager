@@ -14,3 +14,5 @@ Dev2: Adding new Changes 1
 Dev2: Adding new Changes 2
 Dev1: Adding new Changes 1
 Dev1: Adding new Changes 2
+
+Dev1: Hello Dev2 How are you?
