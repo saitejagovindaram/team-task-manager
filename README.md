@@ -27,3 +27,4 @@ Dev2: Preparing changes for rebase
 Dev2: Second change for rebase
 
 Dev1: Preparing changes for rebase again.
+Dev1: Something new from dev1
