@@ -31,3 +31,8 @@ Dev1: Something new from dev1
 
 Dev2: Preparing changes for rebase again.
 Dev2: Something new from dev2
+
+
+Practice Squash 1
+Practice Squash 2
+Practice Squash 3
