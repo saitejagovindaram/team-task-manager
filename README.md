@@ -28,3 +28,9 @@ Dev2: Second change for rebase
 
 Dev1: Preparing changes for rebase again.
 Dev1: Something new from dev1
+
+
+
+Practice Squash 1
+Practice Squash 2
+Practice Squash 3
